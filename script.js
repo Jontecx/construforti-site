@@ -36,7 +36,7 @@
     },
     {
       id: "cimento-votoran",
-      title: "Cimento 25kg e 50kg (Votoran / CSN)",
+      title: "Cimento 25kg (Votoran / CSN)",
       category: "Básico e Estrutural",
       categorySlug: "basico-estrutural",
       stage: "inicio",
